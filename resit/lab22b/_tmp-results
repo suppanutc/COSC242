@@ -1,0 +1,11 @@
+inserting d,b,f,a,c,e,g
+inorder traversal
+g
+preorder traversal
+g
+searching
+f -- not found
+o -- not found
+x -- not found
+e -- not found
+d -- not found
